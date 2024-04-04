@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reno5&label=Profile%20views&color=0e75b6&style=flat" alt="reno5" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://renmey2507.myportfolio.com/](https://renmey2507.myportfolio.com/)
-
 - 📫 How to reach me **renmey2507@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
